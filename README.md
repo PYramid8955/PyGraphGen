@@ -1,2 +1,3 @@
 # PyGraphGen
-A simple but powerful python-based SVG graph generator based on the data you input. It accepts a list of integers like [7, 10, 12] and puts it on a graph.
+A simple but powerful python-based SVG graph generator based on your data. It accepts a list of integers like [7, 10, 12] and puts it on a graph. The X axis is assigned automatically (a manual option yould be added later). For example you have the expenses for one year. Now putting them into a list and giving to this program it'd put it on a graph where you can clearely and easily see your situation, by displaying the expense per month. It was useful for one of my discord bots, for counting stuff... Have fun! 
+(P.S. You can change the graph depending on your own preferences, like changing colors, line-width, etc...)
